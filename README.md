@@ -1,2 +1,2 @@
-# Akram-clock-
+# Alram-clock-
 Set alram 
